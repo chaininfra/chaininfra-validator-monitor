@@ -1,6 +1,6 @@
 ---
 
-````markdown
+````
 # ChainInfra Validator Monitor
 
 A lightweight Telegram alerting system for Metal Blockchain validator nodes.  
@@ -103,7 +103,5 @@ If you’re running a Metal node or building a home-lab setup, DM **@Leenoh** to
 ---
 
 © 2025 ChainInfra | Made for the Metal Blockchain community
-
-```
 
 ```
