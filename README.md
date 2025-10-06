@@ -1,8 +1,5 @@
 ---
-
-````
 # ChainInfra Validator Monitor
-
 A lightweight Telegram alerting system for Metal Blockchain validator nodes.  
 Built by [ChainInfra](https://chaininfra.net) for operators who want instant alerts when their node goes offline or recovers.
 
